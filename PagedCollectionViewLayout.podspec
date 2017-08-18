@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = 'PagedCollectionViewLayout'
-    s.version = '1.0.0'
+    s.version = '1.0.1'
     s.homepage = 'https://github.com/khlopko/PagedCollectionViewLayout'
     s.license = { :type => 'MIT' }
     s.authors = 'Kirill Khlopko'
